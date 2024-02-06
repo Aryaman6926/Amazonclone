@@ -1,0 +1,255 @@
+
+#nav1 {
+    background-color: #0d1226;
+    position: fixed; 
+    top: 0; 
+    left: 0;
+    right: 0;
+   height: 8%;
+    width: 100%;
+    border-radius: 0px;
+}
+
+#ul1 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left; /* This makes the list items horizontal */
+}
+#amazon{
+    
+    height: 39px;
+    margin-top: 6px;
+    width: 40px;
+    padding-left: 10px;
+    border-radius: 4px;
+    padding-right: 20px;
+   
+}
+#Location{
+    color: white;
+    font-size: 15px;
+    padding-right: 20px;
+    font-family: cursive;
+    padding-top: 15px;
+    padding-left: 90px;
+}
+#option1{
+    background-color: grey;
+    border-radius: 4px;
+    padding-left: 60px;
+    margin-top: 8px;
+    width: 40px;
+    height: 36px;
+}
+option{
+    background-color: white;
+    font-size: 10px;
+}
+#input{
+    padding-left: 0;
+    
+    
+    box-sizing: border-box;
+    
+}
+#inputx{
+    width: 500px;
+    height: 36px;
+    margin-top: 4px;
+    border-radius: 6px;
+}
+#search{
+    height: 39px;
+    margin-top: 6px;
+    width: 40px;
+    
+    border-radius: 4px;
+    padding-left: 0;
+}
+#cartt{
+    height: 39px;
+    margin-top: 8px;
+    width: 55px;
+    
+    border-radius: 4px;
+    padding-left: 40px;
+}
+#hi{
+    color: white;
+    padding-top: 15px;
+    padding-left: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#return{
+    color: white;
+    padding-top: 15px;
+    padding-left: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#hi:hover{
+    text-decoration: underline;
+}
+#nav2{
+    background-color: #263652;
+    color: white;
+    height: 40px;
+}
+#ul2{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #263652;
+    
+
+}
+#All{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-right: 25px;
+    margin-left: 30px;
+}
+#fresh{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-right: 25px;
+}
+#amazon{color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-right: 25px;
+}
+#sell{color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-right: 25px;}
+#today{color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-right: 25px;}
+#pay{color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-right: 25px;}
+#best{color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-right: 25px;}
+#buy{color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-right: 25px;}
+#prime{color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-right: 25px;}
+#mobile {color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-right: 25px;}
+#new{color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-right: 25px;}
+#listx{
+    margin-top: 8px;
+
+}
+#All:hover{
+    outline-color: white;
+    outline-width: 1px;
+    outline-style: solid;
+}
+#fresh:hover{
+    outline-color: white;
+    outline-width: 1px;
+    outline-style: solid;
+}
+#amazon:hover{
+    outline-color: white;
+    outline-width: 1px;
+    outline-style: solid;
+}
+#sell:hover{
+    outline-color: white;
+    outline-width: 1px;
+    outline-style: solid;
+}
+#today:hover{
+    outline-color: white;
+    outline-width: 1px;
+    outline-style: solid;
+}
+#pay:hover{
+    outline-color: white;
+    outline-width: 1px;
+    outline-style: solid;
+}
+#best:hover{
+    outline-color: white;
+    outline-width: 1px;
+    outline-style: solid;
+}
+#buy:hover{
+    outline-color: white;
+    outline-width: 1px;
+    outline-style: solid;
+}
+#prime:hover{
+    outline-color: white;
+    outline-width: 1px;
+    outline-style: solid;
+}
+#mobile:hover{
+    outline-color: white;
+    outline-width: 1px;
+    outline-style: solid;
+}
+#new:hover{
+    outline-color: white;
+    outline-width: 1px;
+    outline-style: solid;
+}
+/* nav bar completed here bohot lengthy tha */
+#banner {
+    height: 600px;
+    width: 100%;
+}
+
+
+.section{
+    background-image: url(bg.jpg);
+    height: 300px;
+    background-size: cover;
+}
+.para{
+    background-color: white;
+    display: flex;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.85rem;
+    bottom: -250px;
+    position: relative;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.para a{
+    color: cyan;
+}
+.shop{
+    display: flex;
+    justify-content: space-evenly;
+  height: 500px;
+  background-color: pink;
+}
+.box{
+    height: 300px;
+   margin-top: 5px;
+   
+    width: 23%;
+    background-color: white;
+    padding: 20px 0px 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 3px;
+}
+.box-img{
+    height: 300px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
